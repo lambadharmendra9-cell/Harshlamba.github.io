@@ -1,3 +1,4 @@
+unity.com, 7470576, DIRECT, 96cabb5fbdde37a7
 Media.net, 8CUH46N56, RESELLER
 mars.media, 1010442, RESELLER
 openx.com, 537153564, RESELLER, 6a698e2ec38604c6
@@ -75,10 +76,9 @@ sharethrough.com, r9b1mg7e, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 5828, RESELLER, 060d053dcf45cbf3
 sharethrough.com, bxzzb1br, RESELLER, d53b998a7bd4ecd2
 toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
-unity.com, 7470576, DIRECT, 96cabb5fbdde37a7
-video.unrulymedia.com, 389957698, RESELLER
-video.unrulymedia.com, 657436911, RESELLER
-video.unrulymedia.com, 144138083, RESELLER
+://unrulymedia.com, 389957698, RESELLER
+://unrulymedia.com, 657436911, RESELLER
+://unrulymedia.com, 144138083, RESELLER
 smartadserver.com, 4578, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 5294, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4456, RESELLER
